@@ -2,6 +2,8 @@
 
 Memory game created with React and deployed using Heroku.
 
+![Clicky Game](bbclicky.png)
+
 ## 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).

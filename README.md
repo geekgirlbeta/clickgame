@@ -2,6 +2,8 @@
 
 Memory game created with React and deployed using Heroku.
 
+[Play the game!](https://rocky-wildwood-52006.herokuapp.com/)
+
 ![Clicky Game](bbclicky.png)
 
 ## 
